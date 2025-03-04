@@ -1,0 +1,4 @@
+{
+  "name": "checkm2 docker image from dockerhub",
+  "image": "staphb/checkm2:latest"
+}
